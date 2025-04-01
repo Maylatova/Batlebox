@@ -21,7 +21,7 @@ Make sure to install the following libraries in your Arduino IDE:
 | Component               | Pin Connection       |
 |-------------------------|----------------------|
 | DHT11 Sensor            | Data -> Pin 3        |
-| Soil Moisture Sensor    | Analog -> Pin 6      |
+| Soil Moisture Sensor    | PWM -> Pin 6      |
 | LCD (I2C)               | SDA -> A4, SCL -> A5 |
 | Push Button             | Digital -> Pin 2     |
 
